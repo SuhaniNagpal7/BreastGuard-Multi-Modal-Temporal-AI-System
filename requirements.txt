@@ -1,0 +1,16 @@
+torch
+torchvision
+transformers
+peft
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+fastapi
+uvicorn
+shap
+crypten
+flwr
+opacus
+jupyter 
