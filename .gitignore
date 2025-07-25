@@ -1,0 +1,46 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Model checkpoints (large binaries)
+/models/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Raw dataset (large files)
+/MultiModel Breast Cancer MSI Dataset/
+/breast-cancer-dataset/
+*.zip
+
+# Logs, reports, processed data
+/logs/
+/reports/
+/data/processed/
+/data/temporal_sequences/
+*.log
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks (if any)
+*.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.temp 
